@@ -8,6 +8,5 @@ import Router from './routes/Routes'
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Router/>
-    <Home />
   </React.StrictMode>,
 )

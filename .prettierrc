@@ -11,7 +11,8 @@
 	"trailingComma": "all",
 	"singleQuote": true,
 	"semi": true,
-	"importOrder": ["<THIRD_PARTY_MODULES>", "/hooks/", "^/components/", "^../(.*)", "^./(.*)"],
+	"importOrder": 
+	["<THIRD_PARTY_MODULES>", "/hooks/","/screens/", "/ui/","^/components/", "^../(.*)", "^./(.*)"],
 	"importOrderSeparation": true,
 	"importOrderSortSpecifiers": true
 	  
